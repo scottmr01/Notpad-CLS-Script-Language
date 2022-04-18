@@ -1,0 +1,64 @@
+<NotepadPlus>
+    <UserLang name="vScript Dark" ext="prc" udlVersion="2.1">
+        <Settings>
+            <Global caseIgnored="yes" allowFoldOfComments="no" foldCompact="no" forcePureLC="0" decimalSeparator="0" />
+            <Prefix Keywords1="no" Keywords2="no" Keywords3="no" Keywords4="no" Keywords5="no" Keywords6="yes" Keywords7="no" Keywords8="no" />
+        </Settings>
+        <KeywordLists>
+            <Keywords name="Comments">03 03 04 04 00! 00Rem 01 02</Keywords>
+            <Keywords name="Numbers, prefix1"></Keywords>
+            <Keywords name="Numbers, prefix2"></Keywords>
+            <Keywords name="Numbers, extras1"></Keywords>
+            <Keywords name="Numbers, extras2"></Keywords>
+            <Keywords name="Numbers, suffix1"></Keywords>
+            <Keywords name="Numbers, suffix2"></Keywords>
+            <Keywords name="Numbers, range"></Keywords>
+            <Keywords name="Operators1">- # &amp; ( ) * , . / ; ~ + &lt; = &gt;</Keywords>
+            <Keywords name="Operators2"></Keywords>
+            <Keywords name="Folders in code1, open"></Keywords>
+            <Keywords name="Folders in code1, middle"></Keywords>
+            <Keywords name="Folders in code1, close"></Keywords>
+            <Keywords name="Folders in code2, open">def</Keywords>
+            <Keywords name="Folders in code2, middle"></Keywords>
+            <Keywords name="Folders in code2, close">fnend</Keywords>
+            <Keywords name="Folders in comment, open">r:</Keywords>
+            <Keywords name="Folders in comment, middle"></Keywords>
+            <Keywords name="Folders in comment, close">/r</Keywords>
+            <Keywords name="Keywords1">Abs&#x000D;&#x000A;Ceil&#x000D;&#x000A;Cnvrt$&#x000D;&#x000A;Date$&#x000D;&#x000A;Days&#x000D;&#x000A;FP&#x000D;&#x000A;Env$&#x000D;&#x000A;Int&#x000D;&#x000A;IP&#x000D;&#x000A;Len Ltrm$ LwrC$&#x000D;&#x000A;Max Max$ Min Min$ Mod&#x000D;&#x000A;Pi Pos&#x000D;&#x000A;Round RPad$ Rtrm$&#x000D;&#x000A;Srch Srep$&#x000D;&#x000A;Trim$ UprC$&#x000D;&#x000A;Val&#x000D;&#x000A;str$</Keywords>
+            <Keywords name="Keywords2">fn_get_doc_bpj_sched$&#x000D;&#x000A;fncancel&#x000D;&#x000A;fnchop1$&#x000D;&#x000A;fnchop2$&#x000D;&#x000A;fncnv$&#x000D;&#x000A;fndeltag&#x000D;&#x000A;fncnvamt$&#x000D;&#x000A;fncnvdait$&#x000D;&#x000A;fncompare&#x000D;&#x000A;fnconvert_englishdate$&#x000D;&#x000A;fnd_salu$&#x000D;&#x000A;fndait$&#x000D;&#x000A;fndate&#x000D;&#x000A;fndate$&#x000D;&#x000A;fndate10&#x000D;&#x000A;fndate10$&#x000D;&#x000A;fndate8&#x000D;&#x000A;fndate8$&#x000D;&#x000A;fndate_dis10$&#x000D;&#x000A;fndate_dis8$&#x000D;&#x000A;fndate_inp10$&#x000D;&#x000A;fndate_inp8$&#x000D;&#x000A;fndate_rpt10$&#x000D;&#x000A;fndate_rpt8$&#x000D;&#x000A;fndays&#x000D;&#x000A;fnddate$&#x000D;&#x000A;fndebug&#x000D;&#x000A;fndebug_pause&#x000D;&#x000A;fndeldiary&#x000D;&#x000A;fndiary&#x000D;&#x000A;fndiary_exists&#x000D;&#x000A;fndow&#x000D;&#x000A;fneom&#x000D;&#x000A;fneom$&#x000D;&#x000A;fnexists&#x000D;&#x000A;fnflip$&#x000D;&#x000A;fnfmt_date$&#x000D;&#x000A;fnget_city$&#x000D;&#x000A;fnget_county$&#x000D;&#x000A;fnget_st$&#x000D;&#x000A;fnget_zip$&#x000D;&#x000A;fngetn&#x000D;&#x000A;fnhasdiary&#x000D;&#x000A;fnin_c&#x000D;&#x000A;fnin_list_num&#x000D;&#x000A;fnin_list_txt&#x000D;&#x000A;fnin_n&#x000D;&#x000A;fninf&#x000D;&#x000A;fninf$&#x000D;&#x000A;fninit_cap$&#x000D;&#x000A;fninp102j&#x000D;&#x000A;fnint&#x000D;&#x000A;fnint_base&#x000D;&#x000A;fnis_phone$&#x000D;&#x000A;fnj2date$&#x000D;&#x000A;fnj2date10$&#x000D;&#x000A;fnjefis&#x000D;&#x000A;fnlike&#x000D;&#x000A;fnlist$&#x000D;&#x000A;fnmask$&#x000D;&#x000A;fnmatch$&#x000D;&#x000A;fnmerge$&#x000D;&#x000A;fnmergepop&#x000D;&#x000A;fnmergepopcancel&#x000D;&#x000A;fnmi_tax_garn&#x000D;&#x000A;fnmp&#x000D;&#x000A;fnmp_cancel&#x000D;&#x000A;fnmulti_int&#x000D;&#x000A;fnnote&#x000D;&#x000A;fnnpa&#x000D;&#x000A;fnnpd&#x000D;&#x000A;fnordinal$&#x000D;&#x000A;fnpaid&#x000D;&#x000A;fnpaid_postj&#x000D;&#x000A;fnpap_cmt$&#x000D;&#x000A;fnpap_date&#x000D;&#x000A;fnpap_date$&#x000D;&#x000A;fnparse_name$&#x000D;&#x000A;fnpdate$&#x000D;&#x000A;fnphone$&#x000D;&#x000A;fnplus&#x000D;&#x000A;fnposnumber&#x000D;&#x000A;fnppa&#x000D;&#x000A;fnrange&#x000D;&#x000A;fnrange$&#x000D;&#x000A;fnre_coll&#x000D;&#x000A;fnre_dcode&#x000D;&#x000A;fnretmail&#x000D;&#x000A;fnrmdiary&#x000D;&#x000A;fnsalu_d$&#x000D;&#x000A;fnsalutation$&#x000D;&#x000A;fnscript&#x000D;&#x000A;fnspan&#x000D;&#x000A;fnsplit1$&#x000D;&#x000A;fnsplit2$&#x000D;&#x000A;fnsplitx$&#x000D;&#x000A;fnsum&#x000D;&#x000A;fntrue$&#x000D;&#x000A;fnwd&#x000D;&#x000A;fnwd$&#x000D;&#x000A;fnworkdate&#x000D;&#x000A;fnworkdate$&#x000D;&#x000A;fnwp&#x000D;&#x000A;fnwp_ps&#x000D;&#x000A;fnyes$&#x000D;&#x000A;fnf&#x000D;&#x000A;fnf$&#x000D;&#x000A;fntagged&#x000D;&#x000A;fnval&#x000D;&#x000A;fntag&#x000D;&#x000A;fnfield$&#x000D;&#x000A;fnfield&#x000D;&#x000A;fnclear_pay_sched&#x000D;&#x000A;fedeldiary&#x000D;&#x000A;fntagged$&#x000D;&#x000A;fn_doc_type$&#x000D;&#x000A;fnappendtofile&#x000D;&#x000A;fncheck_edi&#x000D;&#x000A;fncode$&#x000D;&#x000A;fndebtor_relation$&#x000D;&#x000A;fnls_phone$&#x000D;&#x000A;fnma_has&#x000D;&#x000A;fnnam$&#x000D;&#x000A;fnput_fcode&#x000D;&#x000A;fnswap$&#x000D;&#x000A;fntest&#x000D;&#x000A;fnword$&#x000D;&#x000A;fn_status_desc$&#x000D;&#x000A;fncostrecoveredpostj&#x000D;&#x000A;fnlast_fin_amt&#x000D;&#x000A;fnlast_fin_date$&#x000D;&#x000A;fnmove_file$&#x000D;&#x000A;fnmovedc_ryfile&#x000D;&#x000A;fnput_field&#x000D;&#x000A;fnqueue$&#x000D;&#x000A;fnread_queue$&#x000D;&#x000A;fnrd&#x000D;&#x000A;fnsql_pop_n&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords3">And&#x000D;&#x000A;Else&#x000D;&#x000A;End&#x000D;&#x000A;Execute&#x000D;&#x000A;Exit&#x000D;&#x000A;For&#x000D;&#x000A;If&#x000D;&#x000A;Let &#x000D;&#x000A;Mat&#x000D;&#x000A;Next&#x000D;&#x000A;Or&#x000D;&#x000A;Pause&#x000D;&#x000A;Randomize&#x000D;&#x000A;Stop&#x000D;&#x000A;Then&#x000D;&#x000A;Use&#x000D;&#x000A;Write&#x000D;&#x000A;</Keywords>
+            <Keywords name="Keywords4">Canceled&#x000D;&#x000A;CC&#x000D;&#x000A;Day&#x000D;&#x000A;Day$&#x000D;&#x000A;DD&#x000D;&#x000A;DD$&#x000D;&#x000A;D1_Adva &#x000D;&#x000A;D2_Adva&#x000D;&#x000A;D3_Adva&#x000D;&#x000A;EOM&#x000D;&#x000A;Year&#x000D;&#x000A;Year$&#x000D;&#x000A;YY&#x000D;&#x000A;YY$&#x000D;&#x000A;Month&#x000D;&#x000A;Month$&#x000D;&#x000A;Mon$&#x000D;&#x000A;MM&#x000D;&#x000A;MM$&#x000D;&#x000A;Today&#x000D;&#x000A;Today$ &#x000D;&#x000A;User_Init$&#x000D;&#x000A;Whoami$</Keywords>
+            <Keywords name="Keywords5">Alert&#x000D;&#x000A;BR_FileName$&#x000D;&#x000A;ChDir&#x000D;&#x000A;Copy&#x000D;&#x000A;Code&#x000D;&#x000A;Date&#x000D;&#x000A;Dir&#x000D;&#x000A;Drop&#x000D;&#x000A;Free&#x000D;&#x000A;MkDir&#x000D;&#x000A;OS_FileName$&#x000D;&#x000A;Proc&#x000D;&#x000A;ProcErr&#x000D;&#x000A;ProcIn&#x000D;&#x000A;Protect&#x000D;&#x000A;ReNum&#x000D;&#x000A;Reserve&#x000D;&#x000A;Read&#x000D;&#x000A;Write&#x000D;&#x000A;ReWrite&#x000D;&#x000A;Rename&#x000D;&#x000A;Return&#x000D;&#x000A;Retry&#x000D;&#x000A;RmDir&#x000D;&#x000A;Scr_Freeze&#x000D;&#x000A;Scr Thaw&#x000D;&#x000A;Skip&#x000D;&#x000A;Sort&#x000D;&#x000A;Status&#x000D;&#x000A;Stop&#x000D;&#x000A;SubProc&#x000D;&#x000A;System&#x000D;&#x000A;Time&#x000D;&#x000A;Time$&#x000D;&#x000A;Type&#x000D;&#x000A;Verify&#x000D;&#x000A;Version</Keywords>
+            <Keywords name="Keywords6">:</Keywords>
+            <Keywords name="Keywords7">fnScript$&#x000D;&#x000A;fnScript</Keywords>
+            <Keywords name="Keywords8"></Keywords>
+            <Keywords name="Delimiters">00&quot; 01 02&quot; 03&apos; 04 05&apos; 06 07 08 09 10 11 12 13 14 15 16 17 18 19 20 21 22 23</Keywords>
+        </KeywordLists>
+        <Styles>
+            <WordsStyle name="DEFAULT" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="autoCIgnoreNumbers" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="COMMENTS" fgColor="FFFF80" bgColor="0080FF" colorStyle="1" fontName="&#x3580;&#xDD23;&#x01CB;" fontStyle="0" nesting="0" />
+            <WordsStyle name="LINE COMMENTS" fgColor="00DD00" bgColor="FFFFFF" colorStyle="1" fontName="&#xBB20;&#xDA88;&#x01CB;" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="NUMBERS" fgColor="FF8080" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS1" fgColor="5559FD" bgColor="FFFFFF" colorStyle="1" fontName="&#xB940;&#xDA69;&#x01CB;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS2" fgColor="0080FF" bgColor="FFFFFF" colorStyle="1" fontName="0" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS3" fgColor="0080FF" bgColor="FFFFFF" colorStyle="1" fontName="&#x4378;E&#x7F00;" fontStyle="1" nesting="0" />
+            <WordsStyle name="KEYWORDS4" fgColor="BF0000" bgColor="FFFFFF" colorStyle="1" fontName="&#x4478;3&#x7F00;" fontStyle="1" fontSize="10" nesting="0" />
+            <WordsStyle name="KEYWORDS5" fgColor="0080FF" bgColor="FFFFFF" colorStyle="1" fontName="&#xAD40;&#xDD1C;&#x01CB;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS6" fgColor="FFFFFF" bgColor="00A4A4" fontName="&#x0D80;" fontStyle="0" nesting="0" />
+            <WordsStyle name="KEYWORDS7" fgColor="000080" bgColor="FFFFFF" colorStyle="1" fontName="&#x6E45;&#x7064;&#x696F;&#x746E;&#x7942;&#x6152;&#x676E;&#x5765;&#x0D80;" fontStyle="5" nesting="0" />
+            <WordsStyle name="KEYWORDS8" fgColor="000000" bgColor="FFFFFF" colorStyle="1" fontName="0" fontStyle="0" nesting="0" />
+            <WordsStyle name="OPERATORS" fgColor="FF8080" bgColor="FFFFFF" colorStyle="1" fontName="&#xBF10;&#xDD1E;&#x01CB;" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE1" fgColor="FF8000" bgColor="FFFFFF" colorStyle="1" fontName="0" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="FOLDER IN CODE2" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="&#x06AA;&#x0006;" fontStyle="0" nesting="0" />
+            <WordsStyle name="FOLDER IN COMMENT" fgColor="00DF00" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS1" fgColor="0080C0" bgColor="FFFFFF" colorStyle="1" fontName="0" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="DELIMITERS2" fgColor="0080C0" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" fontSize="10" nesting="0" />
+            <WordsStyle name="DELIMITERS3" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="&lt;&#x0008;&#x0019;&#x8019;" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS4" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS5" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS6" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS7" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
+            <WordsStyle name="DELIMITERS8" fgColor="FFFFFF" bgColor="FFFFFF" colorStyle="1" fontName="" fontStyle="0" nesting="0" />
+        </Styles>
+    </UserLang>
+</NotepadPlus>
