@@ -1,1 +1,1 @@
-# Notpad-CLS-Script-Language
+# Notpad++ CLS Script User Language
